@@ -69,7 +69,7 @@ export default function AboutScreen() {
 
               <a
                 className="btn btn-1 mt-4"
-                href="https://drive.google.com/file/d/1xfR5c3mZ8Wmpq4Z6yUEKR4dhySN9kxgV/view?usp=share_link"
+                href="https://drive.google.com/file/d/1PEkeFtNSQYv___mxVY_D8RUvPwXVaRlS/view?usp=sharing"
                 target="_blank"
                 download="Resume"
                 rel="noreferrer"
