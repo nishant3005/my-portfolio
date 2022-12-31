@@ -39,7 +39,7 @@ export default function AboutScreen() {
               </h2>
 
               <Row className="about-info pt-4">
-                <Col md={6}>
+                <Col md={12}>
                   <p>
                     Name:{' '}
                     <span className="about-info-detail px-2">Nishant Raj</span>
@@ -51,11 +51,11 @@ export default function AboutScreen() {
                     </span>
                   </p>
                 </Col>
-                <Col md={6}>
+                <Col md={12}>
                   <p>
                     Email:{' '}
                     <span className="about-info-detail px-2">
-                      nishantraj3051@gmail
+                      nishantraj3051@gmail.com
                     </span>
                   </p>
                   <p>
